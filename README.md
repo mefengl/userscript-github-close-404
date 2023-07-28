@@ -1,0 +1,1 @@
+# userscript-github-close-404
